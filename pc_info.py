@@ -3,6 +3,3 @@ def run():
     import platform, os
     info = {"username": os.getlogin(), "platform": platform.platform(), "uname": platform.uname()}
     print(info)
-
-if __name__ == "__main__":
-    run()
