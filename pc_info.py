@@ -4,4 +4,5 @@ def run():
     info = {"username": os.getlogin(), "platform": platform.platform(), "uname": platform.uname()}
     print(info)
 
-run()
+if __name__ == "__main__":
+    run()
