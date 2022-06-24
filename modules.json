@@ -2,8 +2,7 @@
     "threaded_modules": true,
     "modules": [
         "test_mod",
-        "pc_info",
-        "reverse_shell"
+        "pc_info"
     ],
     "module_config": {
         "github_username": "pyscripter99",
