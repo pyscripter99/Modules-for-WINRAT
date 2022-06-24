@@ -1,0 +1,6 @@
+{
+    "threaded_modules": true,
+    "modules": {
+        "test": "https://gist.githubusercontent.com/pyscripter99/ab05afd064333c5c57b093c79399def1/raw/391e69b52f55baedcc80a84b384151e6c6bafb2e/test.py"
+    }
+}
