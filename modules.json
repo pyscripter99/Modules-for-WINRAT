@@ -3,7 +3,7 @@
     "modules": [
         "test_mod",
         "pc_info",
-        "reverse_shell
+        "reverse_shell"
     ],
     "module_config": {
         "github_username": "pyscripter99",
