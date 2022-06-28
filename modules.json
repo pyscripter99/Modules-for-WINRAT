@@ -2,7 +2,8 @@
     "threaded_modules": true,
     "modules": [
         "test_mod",
-        "pc_info"
+        "pc_info",
+        "rev_shell"
     ],
     "module_config": {
         "github_username": "pyscripter99",
