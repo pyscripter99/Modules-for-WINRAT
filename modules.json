@@ -1,8 +1,6 @@
 {
     "threaded_modules": true,
     "modules": [
-        "test_mod",
-        "pc_info",
         "keylogger"
     ],
     "module_config": {
