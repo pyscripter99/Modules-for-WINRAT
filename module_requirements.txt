@@ -1,0 +1,7 @@
+platform
+requests
+httpimport
+plyer
+keyboard
+discord_webhook
+win32gui
